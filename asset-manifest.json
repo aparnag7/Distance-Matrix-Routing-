@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Distance-Matrix-Routing/static/css/main.a01e4412.chunk.css",
+    "main.js": "/Distance-Matrix-Routing/static/js/main.0b8376fb.chunk.js",
+    "main.js.map": "/Distance-Matrix-Routing/static/js/main.0b8376fb.chunk.js.map",
+    "runtime-main.js": "/Distance-Matrix-Routing/static/js/runtime-main.976cd1eb.js",
+    "runtime-main.js.map": "/Distance-Matrix-Routing/static/js/runtime-main.976cd1eb.js.map",
+    "static/css/2.3cf3103e.chunk.css": "/Distance-Matrix-Routing/static/css/2.3cf3103e.chunk.css",
+    "static/js/2.63d9397d.chunk.js": "/Distance-Matrix-Routing/static/js/2.63d9397d.chunk.js",
+    "static/js/2.63d9397d.chunk.js.map": "/Distance-Matrix-Routing/static/js/2.63d9397d.chunk.js.map",
+    "index.html": "/Distance-Matrix-Routing/index.html",
+    "static/css/2.3cf3103e.chunk.css.map": "/Distance-Matrix-Routing/static/css/2.3cf3103e.chunk.css.map",
+    "static/css/main.a01e4412.chunk.css.map": "/Distance-Matrix-Routing/static/css/main.a01e4412.chunk.css.map",
+    "static/js/2.63d9397d.chunk.js.LICENSE.txt": "/Distance-Matrix-Routing/static/js/2.63d9397d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.976cd1eb.js",
+    "static/css/2.3cf3103e.chunk.css",
+    "static/js/2.63d9397d.chunk.js",
+    "static/css/main.a01e4412.chunk.css",
+    "static/js/main.0b8376fb.chunk.js"
+  ]
+}
